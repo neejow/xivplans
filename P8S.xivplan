@@ -1,5 +1,5 @@
 {
-  "nextId": 284,
+  "nextId": 307,
   "arena": {
     "shape": "rectangle",
     "width": 700,
@@ -310,8 +310,8 @@
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "x": 2,
-          "y": -130,
+          "x": -1,
+          "y": 193,
           "id": 70
         },
         {
@@ -323,8 +323,8 @@
           "width": 40,
           "height": 40,
           "rotation": 0,
-          "x": -10,
-          "y": 188,
+          "x": 168,
+          "y": 1,
           "id": 71
         },
         {
@@ -494,8 +494,8 @@
           "opacity": 100,
           "rotation": 0,
           "text": "Stand in clocks\nBoss hits 2 people per set, \nuntil everyone got hit\n\nCount which set you are in\n(1st hit = 1st set)",
-          "x": 245,
-          "y": 19,
+          "x": 238,
+          "y": 21,
           "id": 109
         }
       ]
@@ -2559,6 +2559,276 @@
           "x": 11,
           "y": 273,
           "id": 283
+        }
+      ]
+    },
+    {
+      "objects": [
+        {
+          "opacity": 100,
+          "type": "party",
+          "image": "/actor/AST.png",
+          "name": "Astrologian",
+          "status": [],
+          "width": 40,
+          "height": 40,
+          "rotation": 0,
+          "x": -132,
+          "y": -74,
+          "id": 284
+        },
+        {
+          "opacity": 100,
+          "type": "party",
+          "image": "/actor/SGE.png",
+          "name": "Sage",
+          "status": [],
+          "width": 40,
+          "height": 40,
+          "rotation": 0,
+          "x": 126,
+          "y": -114,
+          "id": 285
+        },
+        {
+          "opacity": 100,
+          "type": "party",
+          "image": "/actor/BLM.png",
+          "name": "Black Mage",
+          "status": [],
+          "width": 40,
+          "height": 40,
+          "rotation": 0,
+          "x": 126,
+          "y": 102,
+          "id": 286
+        },
+        {
+          "opacity": 100,
+          "type": "party",
+          "image": "/actor/NIN.png",
+          "name": "Ninja",
+          "status": [],
+          "width": 40,
+          "height": 40,
+          "rotation": 0,
+          "x": -106,
+          "y": -97,
+          "id": 287
+        },
+        {
+          "opacity": 100,
+          "type": "party",
+          "image": "/actor/MNK.png",
+          "name": "Monk",
+          "status": [],
+          "width": 40,
+          "height": 40,
+          "rotation": 0,
+          "x": 120,
+          "y": -84,
+          "id": 288
+        },
+        {
+          "opacity": 100,
+          "type": "party",
+          "image": "/actor/PLD.png",
+          "name": "Paladin",
+          "status": [],
+          "width": 40,
+          "height": 40,
+          "rotation": 0,
+          "x": -58,
+          "y": 107,
+          "id": 289
+        },
+        {
+          "opacity": 100,
+          "type": "party",
+          "image": "/actor/GNB.png",
+          "name": "Gunbreaker",
+          "status": [],
+          "width": 40,
+          "height": 40,
+          "rotation": 0,
+          "x": 146,
+          "y": 70,
+          "id": 290
+        },
+        {
+          "opacity": 100,
+          "type": "party",
+          "image": "/actor/DNC.png",
+          "name": "Dancer",
+          "status": [],
+          "width": 40,
+          "height": 40,
+          "rotation": 0,
+          "x": -103,
+          "y": 99,
+          "id": 291
+        },
+        {
+          "opacity": 100,
+          "type": "marker",
+          "name": "Waymark A",
+          "image": "/marker/waymark_a.png",
+          "shape": "circle",
+          "color": "#f13b66",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 0,
+          "y": 176,
+          "id": 292
+        },
+        {
+          "opacity": 100,
+          "type": "marker",
+          "name": "Waymark B",
+          "image": "/marker/waymark_b.png",
+          "shape": "circle",
+          "color": "#e1dc5d",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 175,
+          "y": -2,
+          "id": 293
+        },
+        {
+          "opacity": 100,
+          "type": "marker",
+          "name": "Waymark C",
+          "image": "/marker/waymark_c.png",
+          "shape": "circle",
+          "color": "#65b3ea",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 1,
+          "y": -176,
+          "id": 294
+        },
+        {
+          "opacity": 100,
+          "type": "marker",
+          "name": "Waymark D",
+          "image": "/marker/waymark_d.png",
+          "shape": "circle",
+          "color": "#e291e6",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": -176,
+          "y": 3,
+          "id": 295
+        },
+        {
+          "opacity": 100,
+          "type": "marker",
+          "name": "Waymark 1",
+          "image": "/marker/waymark_1.png",
+          "shape": "square",
+          "color": "#f13b66",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": -175,
+          "y": 175,
+          "id": 296
+        },
+        {
+          "opacity": 100,
+          "type": "marker",
+          "name": "Waymark 2",
+          "image": "/marker/waymark_2.png",
+          "shape": "square",
+          "color": "#e1dc5d",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 178,
+          "y": 175,
+          "id": 297
+        },
+        {
+          "opacity": 100,
+          "type": "marker",
+          "name": "Waymark 3",
+          "image": "/marker/waymark_3.png",
+          "shape": "square",
+          "color": "#65b3ea",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": 177,
+          "y": -177,
+          "id": 298
+        },
+        {
+          "opacity": 100,
+          "type": "marker",
+          "name": "Waymark 4",
+          "image": "/marker/waymark_4.png",
+          "shape": "square",
+          "color": "#e291e6",
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": -175,
+          "y": -175,
+          "id": 299
+        },
+        {
+          "stroke": "#000000",
+          "style": "outline",
+          "type": "text",
+          "align": "center",
+          "fontSize": 60,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "Snake 2",
+          "x": 11,
+          "y": 273,
+          "id": 302
+        },
+        {
+          "type": "eye",
+          "color": "#ff0000",
+          "opacity": 100,
+          "radius": 25,
+          "x": -225,
+          "y": -1,
+          "id": 303
+        },
+        {
+          "type": "eye",
+          "color": "#ff0000",
+          "opacity": 100,
+          "radius": 25,
+          "x": -3,
+          "y": 215,
+          "id": 304
+        },
+        {
+          "type": "eye",
+          "color": "#ff0000",
+          "opacity": 100,
+          "radius": 25,
+          "x": 245,
+          "y": 5,
+          "id": 305
+        },
+        {
+          "type": "eye",
+          "color": "#ff0000",
+          "opacity": 100,
+          "radius": 25,
+          "x": 3,
+          "y": -198,
+          "id": 306
         }
       ]
     }
