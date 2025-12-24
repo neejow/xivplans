@@ -1,0 +1,200 @@
+{
+  "nextId": 20,
+  "arena": {
+    "shape": "rectangle",
+    "width": 960,
+    "height": 720,
+    "padding": 120,
+    "grid": {
+      "type": "none"
+    },
+    "backgroundImage": "https://i.imgur.com/vH4UZxx.png",
+    "backgroundOpacity": 100
+  },
+  "steps": [
+    {
+      "objects": []
+    },
+    {
+      "objects": [
+        {
+          "type": "rect",
+          "color": "#550707",
+          "opacity": 100,
+          "width": 353,
+          "height": 231,
+          "rotation": 0,
+          "x": -302,
+          "y": 244,
+          "id": 1
+        },
+        {
+          "type": "rect",
+          "color": "#550707",
+          "opacity": 100,
+          "width": 353,
+          "height": 228,
+          "rotation": 0,
+          "x": 303,
+          "y": 245,
+          "id": 2
+        },
+        {
+          "type": "rect",
+          "color": "#550707",
+          "opacity": 100,
+          "width": 353,
+          "height": 229,
+          "rotation": 0,
+          "x": -303,
+          "y": -245,
+          "id": 3
+        },
+        {
+          "type": "rect",
+          "color": "#550707",
+          "opacity": 100,
+          "width": 353,
+          "height": 231,
+          "rotation": 0,
+          "x": 301,
+          "y": -243,
+          "id": 5
+        },
+        {
+          "type": "rect",
+          "color": "#550707",
+          "opacity": 100,
+          "width": 478,
+          "height": 267,
+          "rotation": 0,
+          "x": -1,
+          "y": -1,
+          "id": 6
+        }
+      ]
+    },
+    {
+      "objects": [
+        {
+          "type": "rect",
+          "color": "#550707",
+          "opacity": 100,
+          "width": 239,
+          "height": 231,
+          "rotation": 0,
+          "x": -360,
+          "y": 243,
+          "id": 7
+        },
+        {
+          "type": "rect",
+          "color": "#550707",
+          "opacity": 100,
+          "width": 239,
+          "height": 231,
+          "rotation": 0,
+          "x": 359,
+          "y": 244,
+          "id": 8
+        },
+        {
+          "type": "rect",
+          "color": "#550707",
+          "opacity": 100,
+          "width": 239,
+          "height": 231,
+          "rotation": 0,
+          "x": -360,
+          "y": -243,
+          "id": 9
+        },
+        {
+          "type": "rect",
+          "color": "#550707",
+          "opacity": 100,
+          "width": 239,
+          "height": 231,
+          "rotation": 0,
+          "x": 361,
+          "y": -245,
+          "id": 10
+        }
+      ]
+    },
+    {
+      "objects": [
+        {
+          "type": "rect",
+          "color": "#550707",
+          "opacity": 100,
+          "width": 480,
+          "height": 714,
+          "rotation": 0,
+          "x": 1,
+          "y": 0,
+          "id": 11
+        },
+        {
+          "type": "rect",
+          "color": "#550707",
+          "opacity": 100,
+          "width": 954,
+          "height": 240,
+          "rotation": 0,
+          "x": 1,
+          "y": -1,
+          "id": 12
+        }
+      ]
+    },
+    {
+      "objects": [
+        {
+          "type": "rect",
+          "color": "#550707",
+          "opacity": 100,
+          "width": 239,
+          "height": 231,
+          "rotation": 0,
+          "x": 0,
+          "y": 243,
+          "id": 15
+        },
+        {
+          "type": "rect",
+          "color": "#550707",
+          "opacity": 100,
+          "width": 234,
+          "height": 231,
+          "rotation": 0,
+          "x": -358,
+          "y": 0,
+          "id": 17
+        },
+        {
+          "type": "rect",
+          "color": "#550707",
+          "opacity": 100,
+          "width": 236,
+          "height": 231,
+          "rotation": 0,
+          "x": 362,
+          "y": 0,
+          "id": 18
+        },
+        {
+          "type": "rect",
+          "color": "#550707",
+          "opacity": 100,
+          "width": 239,
+          "height": 233,
+          "rotation": 0,
+          "x": 0,
+          "y": -243,
+          "id": 19
+        }
+      ]
+    }
+  ]
+}
