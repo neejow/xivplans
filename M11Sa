@@ -1,0 +1,24 @@
+{
+  "nextId": 1,
+  "arena": {
+    "shape": "rectangle",
+    "width": 600,
+    "height": 600,
+    "padding": 120,
+    "grid": {
+      "type": "rectangle",
+      "rows": 4,
+      "columns": 4
+    },
+    "backgroundImage": "https://i.imgur.com/13GZxuz.png",
+    "backgroundOpacity": 100,
+    "ticks": {
+      "type": "none"
+    }
+  },
+  "steps": [
+    {
+      "objects": []
+    }
+  ]
+}
